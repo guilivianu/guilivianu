@@ -9,25 +9,18 @@ Sou um desenvolvedor **Full Stack** e **Designer** em formação. Gosto de atuar
 - ⚙️ **Backend:** Criação de APIs RESTful e modelagem de bancos de dados.
 - 🎨 **UI/UX Design:** Prototipagem de alta fidelidade e aplicação de boas práticas de usabilidade.
 
-### 🛠️ Arsenal Tecnológico
-
-**Front-end & Mobile**
-<div style="display: inline_block">
+### 🛠️ Tecnologias e Ferramentas
+<div style="display: inline_block"><br>
   <img align="center" alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Native" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> <img align="center" alt="TS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Expo" height="30" width="40" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg">
+  <img align="center" alt="TS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Tailwind" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
-</div>
-
-**Back-end & Banco de Dados**
-<div style="display: inline_block">
+  
   <img align="center" alt="Node" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Express" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
   <img align="center" alt="MySQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Prisma" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg">
-</div>
-
-**Design & Ferramentas**
-<div style="display: inline_block">
+  
   <img align="center" alt="Figma" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
