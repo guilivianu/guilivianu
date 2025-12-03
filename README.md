@@ -27,8 +27,8 @@ Sou um desenvolvedor **Full Stack** e **Designer** em formação. Gosto de atuar
 
 ### 📊 Estatísticas
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guilivianu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilivianu&layout=compact&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guilivianu&show_icons=true&theme=dracula&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilivianu&layout=compact&theme=dracula&hide_border=true"/>
 </div>
 
 ### 📫 Vamos conversar?
