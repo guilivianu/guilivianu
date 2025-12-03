@@ -5,12 +5,14 @@ Sou um desenvolvedor **Full Stack** e **Designer** em formação. Gosto de atuar
 🎓 **Estudante na UNIFEI** | Diretor de Projetos da **byron.solutions**
 
 ### 🚀 O que eu faço
+
 - 📱 **Mobile & Web:** Desenvolvimento de aplicações responsivas e apps nativos.
 - ⚙️ **Backend:** Criação de APIs RESTful e modelagem de bancos de dados.
 - 🎨 **UI/UX Design:** Prototipagem de alta fidelidade e aplicação de boas práticas de usabilidade.
 
 ### 🛠️ Tecnologias e Ferramentas
-<div style="display: inline_block"><br>
+
+<div style="display: flex"><br>
   <img align="center" alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Expo" height="30" width="40" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg">
   <img align="center" alt="TS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -25,12 +27,9 @@ Sou um desenvolvedor **Full Stack** e **Designer** em formação. Gosto de atuar
   <img align="center" alt="Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
-### 📊 Estatísticas
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guilivianu&show_icons=true&theme=dracula&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilivianu&layout=compact&theme=dracula&hide_border=true"/>
-</div>
+<br><br>
 
 ### 📫 Vamos conversar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-ribeiro-livianu-bb75b7270/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilivianu)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.livianu@gmail.com)
